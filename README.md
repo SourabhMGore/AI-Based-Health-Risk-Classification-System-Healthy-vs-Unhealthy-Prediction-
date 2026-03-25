@@ -1,0 +1,2 @@
+# AI-Based-Health-Risk-Classification-System-Healthy-vs-Unhealthy-Prediction-
+A machine learning project that classifies individuals as Healthy or Unhealthy using clinical, physiological, and lifestyle data. Built on a dataset of 9,800 participants, it combines data preprocessing, EDA, and predictive modeling to support healthcare research decisions such as clinical trial selection and risk-based population analysis.
